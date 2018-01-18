@@ -1,0 +1,2667 @@
+[
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "ash-bow",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Ash Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4255/F6Uzqs.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/ash-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "cobra-royale",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Cobra Royale",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/3032/que6JW.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/cobra-royale.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "deathstorm",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Deathstorm",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/2565/kQlO6t.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/deathstorm.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "lion-s-mane",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Lion`s Mane",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/593/MhQGUq.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/lion-s-mane.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "ta-sety-bow",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Ta-Sety Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1364/8mjoOd.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/ta-sety-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "achilles-heel-seeker",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Achilles Heel Seeker",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1109/ABhQzd.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/achilles-heel-seeker.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "big-game-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Big Game Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4798/v8VC5x.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/big-game-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "combat-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Combat Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/2103/4rTGdG.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/combat-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "desheret-patrol-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Desheret Patrol Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/963/KuCc1e.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/desheret-patrol-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "gazelle-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Gazelle Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/329/xca0Kn.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/gazelle-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "hunting-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Hunting Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5852/JS2GFZ.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/hunting-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "im-khent-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Im-Khent Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/6215/XQDBHn.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/im-khent-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "longbow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Longbow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8158/kKTJ0G.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/longbow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "nubian-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Nubian Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/6616/3e8eEy.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/nubian-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "overseer-of-all-disputes",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Overseer of All Disputes",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/7593/KH3CUy.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/overseer-of-all-disputes.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "self-help-remedy",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Self-help Remedy",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/1873/yxtT4F.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/self-help-remedy.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "serpent-s-scourge",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Serpent`s Scourge",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4862/NGr6eb.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/serpent-s-scourge.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "alchemist-s-dream",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Alchemist`s Dream",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5958/A6D4wL.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/alchemist-s-dream.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "bow-of-arash",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Bow of Arash",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/124/V2eVVv.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/bow-of-arash.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "obsidian-bow",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Obsidian Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5603/kpTGIN.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/obsidian-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "hunter",
+    "slug": "wolfsbane",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Wolfsbane",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/7947/dmFvAl.png",
+      "folder": "images/bow/hunter",
+      "filepath": "images/bow/hunter/wolfsbane.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "apedemak",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Apedemak",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4776/2lEnb8.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/apedemak.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "bow-of-wadjet",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Bow of Wadjet",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/7400/0XUG1R.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/bow-of-wadjet.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "composite-bow",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Composite Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/5673/F0WY1R.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/composite-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "corrupted-soul",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Corrupted Soul",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/5917/8drcLX.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/corrupted-soul.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "griffin",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Griffin",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/6383/h0fTSZ.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/griffin.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "hunger-of-the-underworld",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Hunger of the Underworld",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/6916/gsneOX.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/hunger-of-the-underworld.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "neith",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Neith",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/159/6Zvfig.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/neith.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "arc-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Arc Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/6647/EgyycV.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/arc-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "ousirmaatre-setepenre",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Ousirmaatre Setepenre",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/6346/uFlbxV.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/ousirmaatre-setepenre.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "quick-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Quick Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/7910/HWZti8.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/quick-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "toxotai-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Toxotai Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/3959/tye93H.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/toxotai-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "bitter-bow",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Bitter Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/2268/3p6sdc.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/bitter-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "hyperion",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Hyperion",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/3236/9ty0VJ.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/hyperion.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "light",
+    "slug": "the-parthian",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "The Parthian",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/9444/hScorp.png",
+      "folder": "images/bow/light",
+      "filepath": "images/bow/light/the-parthian.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "amenhotep-s-bow",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Amenhotep`s Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1254/SClpy7.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/amenhotep-s-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "jebel-barkal",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Jebel Barkal",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/2517/YGUkpV.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/jebel-barkal.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "lord-of-bones",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Lord of Bones",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/7308/HUJxvj.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/lord-of-bones.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "smoke-and-mirrors",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Smoke and Mirrors",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8329/f2z4KU.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/smoke-and-mirrors.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "trophy-hunter",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Trophy Hunter",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/9496/Ree82w.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/trophy-hunter.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "concealed-garment",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Concealed Garment",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/9021/fx3Q1d.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/concealed-garment.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "copper-arc",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Copper Arc",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4476/cSFWKj.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/copper-arc.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "desert-companion",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Desert Companion",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/1502/mJBdJx.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/desert-companion.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "neith-s-observer",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Neith`s Observer",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/554/leqKP4.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/neith-s-observer.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "victoria",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Victoria",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1666/Ll8UxL.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/victoria.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "whisper-of-death",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Whisper of Death",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7307/pFFih0.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/whisper-of-death.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "wildland-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Wildland Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/4584/v8X46d.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/wildland-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "ancestral-bow",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Ancestral Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7745/ugeNiJ.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/ancestral-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "hades",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Hades",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/139/9a1aKP.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/hades.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "mute-bow",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Mute Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/6003/r4VN4X.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/mute-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "quagga",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Quagga",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/2381/FbmDKF.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/quagga.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "predator",
+    "slug": "rain-bow",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Rain Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/1593/hNiLRE.png",
+      "folder": "images/bow/predator",
+      "filepath": "images/bow/predator/rain-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "jackal-s-gaze",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Jackal`s Gaze",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/5594/NA7elk.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/jackal-s-gaze.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "khryselakatos",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Khryselakatos",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/1482/ViEsd8.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/khryselakatos.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "the-crimson-death",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "The Crimson Death",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7238/blhIGV.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/the-crimson-death.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "the-fourth-plague",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "The Fourth Plague",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/5028/p53Fqp.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/the-fourth-plague.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "wings-of-ashur",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Wings of Ashur",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/3058/SnIveR.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/wings-of-ashur.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "rain-of-arrows",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Rain of Arrows",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/7877/ZFJZf0.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/rain-of-arrows.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "sty",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Sty",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7013/ManAgS.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/sty.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "til-tuba-bow",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Til-Tuba Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/3553/rg9vkm.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/til-tuba-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "wall-of-sand",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Wall of Sand",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/2189/jzEO6y.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/wall-of-sand.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "aldebaran",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Aldebaran",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/2669/UHTVlU.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/aldebaran.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "battos-bow",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Battos` Bow",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8285/RrvFKt.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/battos-bow.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "crown-jewel",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Crown Jewel",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4880/PlmWM8.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/crown-jewel.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "hippopotamus-charge",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Hippopotamus Charge",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/6920/x1DeVx.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/hippopotamus-charge.png"
+    }
+  },
+  {
+    "type": "bow",
+    "subtype": "warrior",
+    "slug": "priest-of-ma-at",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Priest of Ma`at",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/6231/OOiQIO.png",
+      "folder": "images/bow/warrior",
+      "filepath": "images/bow/warrior/priest-of-ma-at.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "Part of the Centurion Pack",
+    "slug": "divide-et-impera",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Divide et Impera",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/38/r0ictW.png",
+      "folder": "images/heavy_blade/Part of the Centurion Pack",
+      "filepath": "images/heavy_blade/Part of the Centurion Pack/divide-et-impera.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "headsplitter",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Headsplitter",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4002/oM9lgI.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/headsplitter.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "leviathan",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Leviathan",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/8080/NeYKHj.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/leviathan.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "mushussu",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Mushussu",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/6599/LBY2Pe.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/mushussu.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "nebuchadnezzar-s-wrath",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Nebuchadnezzar`s Wrath",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5976/WOBm1k.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/nebuchadnezzar-s-wrath.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "serpent-axe",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Serpent Axe",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/5005/EH2QoJ.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/serpent-axe.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "shark-fin",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Shark Fin",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5765/V2672O.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/shark-fin.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "battleaxe",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Battleaxe",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8601/9TTf9q.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/battleaxe.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "bronze-axe",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Bronze Axe",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/886/JyWcpI.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/bronze-axe.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "bronze-epsilon-axe",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Bronze Epsilon Axe",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/2184/Y6RhMR.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/bronze-epsilon-axe.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "crescent-axe",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Crescent Axe",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5843/kRqNFv.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/crescent-axe.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "scalloped-head-axe",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Scalloped Head Axe",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/8532/zMNgQP.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/scalloped-head-axe.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "sharp-cut",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Sharp Cut",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/5244/ArvD3B.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/sharp-cut.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "cutting-axe",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Cutting Axe",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/9799/s6eFXp.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/cutting-axe.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "fan-axe",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Fan Axe",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/5083/gRZwqv.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/fan-axe.png"
+    }
+  },
+  {
+    "type": "heavy_blade",
+    "subtype": "",
+    "slug": "medusa",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Medusa",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/275/dCmPCR.png",
+      "folder": "images/heavy_blade",
+      "filepath": "images/heavy_blade/medusa.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "copper-mace",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Copper Mace",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/960/SuidkC.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/copper-mace.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "eye-of-apep",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Eye of Apep",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8018/I6jgmM.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/eye-of-apep.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "eye-of-ra",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Eye of Ra",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/98/j1pTkC.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/eye-of-ra.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "headache-remedy",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Headache Remedy",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/1919/hSvGOx.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/headache-remedy.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "no-borders",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "No Borders",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/2724/z3BnS8.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/no-borders.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "boredom-bane",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Boredom Bane",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/53/e4rs87.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/boredom-bane.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "bronze-bludgeon",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Bronze Bludgeon",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5339/E6Guqr.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/bronze-bludgeon.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "diamond-exchange",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Diamond Exchange",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7156/8uiavA.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/diamond-exchange.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "festus-s-thunder-ball",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Festus`s Thunder Ball",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/7564/OOZweA.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/festus-s-thunder-ball.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "mace",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Mace",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/9839/uNTBKY.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/mace.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "minoan-poppy-pin",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Minoan Poppy Pin",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/9384/YIV0dN.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/minoan-poppy-pin.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "spade-of-all-trades",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Spade of all Trades",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4252/Bei5JU.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/spade-of-all-trades.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "the-uab-block",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "The Uab Block",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7396/DUQMIB.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/the-uab-block.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "bone-cracker",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Bone-Cracker",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/8351/Lidj9h.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/bone-cracker.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "face-breaker",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Face-Breaker",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/2324/8nMZj5.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/face-breaker.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "gruesome-mattock",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Gruesome Mattock",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5264/foi28R.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/gruesome-mattock.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "sharur",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Sharur",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4394/mgSYzm.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/sharur.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "skull-breaker",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Skull-Breaker",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/6591/eilyvT.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/skull-breaker.png"
+    }
+  },
+  {
+    "type": "heavy_blunt",
+    "subtype": "",
+    "slug": "sycamore",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Sycamore",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/3290/Nsic8Z.png",
+      "folder": "images/heavy_blunt",
+      "filepath": "images/heavy_blunt/sycamore.png"
+    }
+  },
+  {
+    "type": "unarmed",
+    "subtype": "",
+    "slug": "none-none-unarmed-png",
+    "rarity": "",
+    "obtained": "",
+    "name": "NONE-NONE-Unarmed.png",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4564/AvxUUW.png",
+      "folder": "images/unarmed",
+      "filepath": "images/unarmed/none-none-unarmed-png.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "eyes-of-horus",
+    "rarity": "legendary",
+    "obtained": "Nomad`s Bazaar, e-Store",
+    "name": "Eyes of Horus",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/7787/AJuEMz.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/eyes-of-horus.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "fatal-duet",
+    "rarity": "legendary",
+    "obtained": "Blacksmith, Loot",
+    "name": "Fatal Duet",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/6947/VJeWST.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/fatal-duet.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "storm-blades",
+    "rarity": "legendary",
+    "obtained": "Blacksmith, Loot",
+    "name": "Storm Blades",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1778/E3Wx8d.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/storm-blades.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "wadjet-s-knives",
+    "rarity": "legendary",
+    "obtained": "Nomad`s Bazaar",
+    "name": "Wadjet`s Knives",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/3575/sxLdmA.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/wadjet-s-knives.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "jutes-andamp-cimbri",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Jutes &amp; Cimbri",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/172/0WocCo.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/jutes-andamp-cimbri.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "motivational-duet",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Motivational Duet",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/8157/20CnDG.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/motivational-duet.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "scissor-blades",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Scissor Blades",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1215/NvRszX.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/scissor-blades.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "twin-blades",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Twin Blades",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/826/VJnziJ.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/twin-blades.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "hash-and-slash",
+    "rarity": "rare",
+    "obtained": "Blacksmith, Loot",
+    "name": "Hash and Slash",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5686/v9YgJp.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/hash-and-slash.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "dual",
+    "slug": "mirror-blades",
+    "rarity": "rare",
+    "obtained": "Blacksmith, Loot",
+    "name": "Mirror Blades",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/6407/0ZGzZI.png",
+      "folder": "images/sword/dual",
+      "filepath": "images/sword/dual/mirror-blades.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "calamity-blade",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Calamity Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4843/kJPK4i.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/calamity-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "coast-of-russicada",
+    "rarity": "legendary",
+    "obtained": "Nomad`s Bazaar",
+    "name": "Coast of Russicada",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5633/GA600y.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/coast-of-russicada.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "conductor-of-souls",
+    "rarity": "legendary",
+    "obtained": "Defeat Anubis in the first Trial of the Gods",
+    "name": "Conductor of Souls",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1889/ytLtoM.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/conductor-of-souls.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "golden-wolf",
+    "rarity": "legendary",
+    "obtained": "Blacksmith, Loot",
+    "name": "Golden Wolf",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/4950/SI1FuY.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/golden-wolf.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "hepzefa-s-sword",
+    "rarity": "legendary",
+    "obtained": "Complete Main Quest -- Meet Aya at Siwa",
+    "name": "Hepzefa`s Sword",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/3937/bdmu5U.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/hepzefa-s-sword.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "humbaba-s-fang",
+    "rarity": "legendary",
+    "obtained": "Nomad`s Bazaar",
+    "name": "Humbaba`s Fang",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/1241/KUeOij.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/humbaba-s-fang.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "mustapha-s-blade",
+    "rarity": "legendary",
+    "obtained": "Blacksmith, Loot",
+    "name": "Mustapha`s Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/4774/f5hCtD.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/mustapha-s-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "silver-wind",
+    "rarity": "legendary",
+    "obtained": "Nomad`s Bazaar, e-Store",
+    "name": "Silver Wind",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4577/cHmwcw.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/silver-wind.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "the-falcata",
+    "rarity": "legendary",
+    "obtained": "Nomad`s Bazaar",
+    "name": "The Falcata",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/6168/kZlZMw.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/the-falcata.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "vox-populi",
+    "rarity": "legendary",
+    "obtained": "Part of the Centurion Pack",
+    "name": "Vox Populi",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/163/ZoyMKO.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/vox-populi.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "amun-s-blade",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Amun`s Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/804/ZcFdv4.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/amun-s-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "bronze-sword",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Bronze Sword",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4225/qQo7bu.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/bronze-sword.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "freeman-sword",
+    "rarity": "normal",
+    "obtained": "Defeat Boss in Cyrene Gladiator Arena",
+    "name": "Freeman Sword",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/1572/lZrobe.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/freeman-sword.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "gudbrand-blade",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Gudbrand Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/7360/mpkD7a.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/gudbrand-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "khamudid-lost-blade",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Khamudid Lost Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/3738/0yV2e1.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/khamudid-lost-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "rusted-blade",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Rusted Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/3639/kYObA1.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/rusted-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "thutmosid-sword",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Thutmosid Sword",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8417/S1TToE.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/thutmosid-sword.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "copper-sword",
+    "rarity": "rare",
+    "obtained": "Blacksmith, Loot",
+    "name": "Copper Sword",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/3374/Ar80hZ.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/copper-sword.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "dust-biter",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Dust-Biter",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/2172/eZMJP3.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/dust-biter.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "immortal",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Immortal",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/3659/EgAu3T.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/immortal.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "sea-people-s-blade",
+    "rarity": "rare",
+    "obtained": "Blacksmith, Loot, Normad`s Bazaar",
+    "name": "Sea People`s Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/9216/9a5x6z.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/sea-people-s-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "shamshir",
+    "rarity": "rare",
+    "obtained": "Uplay",
+    "name": "Shamshir",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4324/uejFo9.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/shamshir.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "regular",
+    "slug": "sword-of-the-free",
+    "rarity": "rare",
+    "obtained": "Complete Medjay Quest -- Are You Not Entertained?",
+    "name": "Sword of the Free",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/5491/X5DjZm.png",
+      "folder": "images/sword/regular",
+      "filepath": "images/sword/regular/sword-of-the-free.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "aruna",
+    "rarity": "legendary",
+    "obtained": "Nomad`s Bazaar, e-Store",
+    "name": "Aruna",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4587/0WA8AY.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/aruna.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "berserker-blade",
+    "rarity": "legendary",
+    "obtained": "Blacksmith, Loot",
+    "name": "Berserker Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4099/fBGF92.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/berserker-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "imitation-siwan-khopesh",
+    "rarity": "legendary",
+    "obtained": "Complete Medjay Quest -- The Nomad`s Bazaar",
+    "name": "Imitation Siwan Khopesh",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4567/Q7c2W5.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/imitation-siwan-khopesh.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "pearl-of-dur-jakin",
+    "rarity": "legendary",
+    "obtained": "Nomad`s Bazaar",
+    "name": "Pearl of Dur-Jakin",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7219/He75PY.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/pearl-of-dur-jakin.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "the-fang",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "The Fang",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/3062/6oRMhU.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/the-fang.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "thorn",
+    "rarity": "legendary",
+    "obtained": "Nomad`s Bazaar, e-Store",
+    "name": "Thorn",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/9572/bfvCYn.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/thorn.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "viper-s-tooth",
+    "rarity": "legendary",
+    "obtained": "Blacksmith, Loot",
+    "name": "Viper`s Tooth",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/271/dKvKSQ.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/viper-s-tooth.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "battle-of-gibeon-blade",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Battle of Gibeon Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/3416/ewWkdM.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/battle-of-gibeon-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "bronze-khopesh",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Bronze Khopesh",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/2628/kI90sO.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/bronze-khopesh.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "devotee-of-montu",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Devotee of Montu",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/5521/VH1oR5.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/devotee-of-montu.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "iron-shotel",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Iron Shotel",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5232/uMFs8g.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/iron-shotel.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "khopesh-sword",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Khopesh Sword",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/2825/b9hKsr.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/khopesh-sword.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "nilotic-khopesh",
+    "rarity": "normal",
+    "obtained": "Blacksmith, Loot",
+    "name": "Nilotic Khopesh",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/5384/Z12qtF.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/nilotic-khopesh.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "sanaa-khopesh",
+    "rarity": "normal",
+    "obtained": "Complete Medjay Quest -- Bayek`s House",
+    "name": "Sanaa Khopesh",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7031/FDesJB.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/sanaa-khopesh.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "canaanite-blade",
+    "rarity": "rare",
+    "obtained": "Blacksmith, Loot, Nomad`s Bazaar",
+    "name": "Canaanite Blade",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/9875/gWkANo.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/canaanite-blade.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "harpe-of-perseus",
+    "rarity": "rare",
+    "obtained": "Blacksmith, Loot",
+    "name": "Harpe of Perseus",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8834/pZY5qe.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/harpe-of-perseus.png"
+    }
+  },
+  {
+    "type": "sword",
+    "subtype": "sickle",
+    "slug": "sword-of-ptah",
+    "rarity": "rare",
+    "obtained": "Complete Medjay Quest -- Song of the Desert",
+    "name": "Sword of Ptah",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/169/HX1yl7.png",
+      "folder": "images/sword/sickle",
+      "filepath": "images/sword/sickle/sword-of-ptah.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "alexandria-s-light",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Alexandria`s Light",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7831/0EZipW.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/alexandria-s-light.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "apep-s-staff",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Apep`s Staff",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1633/L1hkmP.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/apep-s-staff.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "ceremonial-staff",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Ceremonial Staff",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/8048/w6VIol.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/ceremonial-staff.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "nubian-scepter",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Nubian Scepter",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4094/pY0pPV.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/nubian-scepter.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "raneb-s-hammer",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Raneb`s Hammer",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5624/4I7tH1.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/raneb-s-hammer.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "scorpion-sting",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Scorpion Sting",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/5813/apFvHu.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/scorpion-sting.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "staff-of-sehetep",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Staff of Sehetep",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/79/0f9dhf.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/staff-of-sehetep.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "cypriot-gabbro-head",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Cypriot Gabbro Head",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1875/BLZPX9.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/cypriot-gabbro-head.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "hasanlu-skeptron",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Hasanlu Skeptron",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/7813/U8cKkP.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/hasanlu-skeptron.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "peasant-s-scepter",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Peasant`s Scepter",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/376/nA8CzK.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/peasant-s-scepter.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "pharaoh-s-mace",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Pharaoh`s Mace",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/9366/aKJF40.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/pharaoh-s-mace.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "siwan-scepter",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Siwan Scepter",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/9651/NqYKxt.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/siwan-scepter.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "acacia-rod",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Acacia Rod",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/672/i9z6bQ.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/acacia-rod.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "bladed-scepter",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Bladed Scepter",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/5718/Qrv0Ud.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/bladed-scepter.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "ritual-scepter",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Ritual Scepter",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/4083/YGJmhg.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/ritual-scepter.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "scepter-of-amun",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Scepter of Amun",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/6804/1LoSHC.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/scepter-of-amun.png"
+    }
+  },
+  {
+    "type": "scepter",
+    "subtype": "",
+    "slug": "scepter-of-thaati",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Scepter of Thaati",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4712/E5nt1C.png",
+      "folder": "images/scepter",
+      "filepath": "images/scepter/scepter-of-thaati.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "compendium",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Compendium",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/2484/EUTM2R.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/compendium.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "djoser-s-pride",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Djoser`s Pride",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/9554/LBLD2S.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/djoser-s-pride.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "medusa-s-gaze",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Medusa`s Gaze",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/4032/ab7CtN.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/medusa-s-gaze.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "phalangite-shield",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Phalangite Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/3246/pQAXsy.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/phalangite-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "reinforced-shield",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Reinforced Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/60/5qeBXu.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/reinforced-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "scorpio",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Scorpio",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/2222/ivhV83.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/scorpio.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "snakes-on-a-shield",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Snakes on a Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/593/Y36Z3R.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/snakes-on-a-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "spqr",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "SPQR",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/6909/VrToih.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/spqr.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "vincit-qui-patitur",
+    "rarity": "legendary",
+    "obtained": "Part of the Centurion Pack",
+    "name": "Vincit qui Patitur",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/5196/qrZXrd.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/vincit-qui-patitur.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "bronze-shield",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Bronze Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1056/VGkzXR.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/bronze-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "medjay-shield",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Medjay Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/9721/SNpjMX.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/medjay-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "metal-shield",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Metal Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/1281/gK6B3B.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/metal-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "wooden-shield",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Wooden Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/8648/RXV5Sl.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/wooden-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "worn-shield",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Worn Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/1662/zV1aOJ.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/worn-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "aegean-prince",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Aegean Prince",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/829/4FPWuw.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/aegean-prince.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "alexander-s-shield",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Alexander`s Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/596/7iHVNz.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/alexander-s-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "antigonus-shield",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Antigonus Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/1794/S5Ty4A.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/antigonus-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "bird-of-prey",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Bird of Prey",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7337/ro0VIm.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/bird-of-prey.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "kush-shield",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Kush Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/4466/RatX8N.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/kush-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "phalanx-shield",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Phalanx Shield",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/2396/uYgsOX.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/phalanx-shield.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "remission",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Remission",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/7025/DXa6Rb.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/remission.png"
+    }
+  },
+  {
+    "type": "shield",
+    "subtype": "",
+    "slug": "savannah",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Savannah",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8420/nbSs8W.png",
+      "folder": "images/shield",
+      "filepath": "images/shield/savannah.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "cyrene-s-spear",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Cyrene`s Spear",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/3184/ZbBnZO.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/cyrene-s-spear.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "lance-of-anhur",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Lance of Anhur",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/258/NDp7Bp.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/lance-of-anhur.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "sarissa",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Sarissa",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/6533/LSekKM.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/sarissa.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "sekhmet-s-spear",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "Sekhmet`s Spear",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/4707/ARgBaG.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/sekhmet-s-spear.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "the-phoenix",
+    "rarity": "legendary",
+    "obtained": "",
+    "name": "The Phoenix",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/3155/qbqXiG.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/the-phoenix.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "handy-spear",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Handy Spear",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8301/DPzRoY.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/handy-spear.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "iron-spear",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Iron Spear",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/8620/dNwvPU.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/iron-spear.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "leaf-shaped-impaler",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Leaf-shaped Impaler",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/5263/53fhwF.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/leaf-shaped-impaler.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "light-spear",
+    "rarity": "normal",
+    "obtained": "",
+    "name": "Light Spear",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img922/4715/aXDAjp.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/light-spear.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "adamant-reed",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Adamant Reed",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/8210/ejLzVV.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/adamant-reed.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "needle",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Needle",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/1659/UmI2qD.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/needle.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "pilum",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "Pilum",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/2887/QuVWHL.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/pilum.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "the-serpent-of-serapis",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "The Serpent of Serapis",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img923/8771/0ulrA8.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/the-serpent-of-serapis.png"
+    }
+  },
+  {
+    "type": "spear",
+    "subtype": "",
+    "slug": "the-trial",
+    "rarity": "rare",
+    "obtained": "",
+    "name": "The Trial",
+    "image": {
+      "url": "https://imagizer.imageshack.com/img924/2348/UrmxIi.png",
+      "folder": "images/spear",
+      "filepath": "images/spear/the-trial.png"
+    }
+  }
+]
